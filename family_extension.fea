@@ -9,16 +9,16 @@
 
 @mvLiquids = [
   dvmvR
-  dvmvRR
-  dvmvL
-  dvmvLL
+# dvmvRR
+# dvmvL
+# dvmvLL
 ];
 
 lookup RA_to_vLiquid {
   sub dvRA' dvmvR  by dvvR;
-  sub dvRA' dvmvRR by dvvRR;
-  sub dvRA' dvmvL  by dvvL;
-  sub dvRA' dvmvLL by dvvLL;
+# sub dvRA' dvmvRR by dvvRR;
+# sub dvRA' dvmvL  by dvvL;
+# sub dvRA' dvmvLL by dvvLL;
 } RA_to_vLiquid;
 
 lookup mvLiquid_to_Reph {
