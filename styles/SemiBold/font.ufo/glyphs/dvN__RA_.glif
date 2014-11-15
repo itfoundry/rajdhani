@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_RA" format="1">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="331" y="298" type="line"/>
+      <point x="64" y="24" type="line" smooth="yes"/>
+      <point x="61" y="20"/>
+      <point x="59" y="17"/>
+      <point x="59" y="13" type="curve" smooth="yes"/>
+      <point x="59" y="7"/>
+      <point x="64" y="0"/>
+      <point x="74" y="0" type="curve" smooth="yes"/>
+      <point x="138" y="0" type="line" smooth="yes"/>
+      <point x="151" y="0"/>
+      <point x="160" y="4"/>
+      <point x="168" y="14" type="curve" smooth="yes"/>
+      <point x="405" y="265" type="line"/>
+    </contour>
+    <component base="dvNA"/>
+  </outline>
+</glyph>

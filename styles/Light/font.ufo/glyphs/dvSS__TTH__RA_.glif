@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_TTH_RA" format="1">
+  <advance width="507"/>
+  <outline>
+    <contour>
+      <point x="258" y="28" type="line"/>
+      <point x="263" y="28"/>
+      <point x="266" y="26"/>
+      <point x="270" y="21" type="curve"/>
+      <point x="395" y="-142" type="line" smooth="yes"/>
+      <point x="397" y="-145"/>
+      <point x="399" y="-148"/>
+      <point x="399" y="-151" type="curve" smooth="yes"/>
+      <point x="399" y="-156"/>
+      <point x="396" y="-158"/>
+      <point x="391" y="-158" type="curve" smooth="yes"/>
+      <point x="377" y="-158" type="line" smooth="yes"/>
+      <point x="371" y="-158"/>
+      <point x="367" y="-154"/>
+      <point x="362" y="-148" type="curve" smooth="yes"/>
+      <point x="252" y="-2" type="line"/>
+      <point x="247" y="-2" type="line"/>
+      <point x="137" y="-148" type="line" smooth="yes"/>
+      <point x="132" y="-154"/>
+      <point x="128" y="-158"/>
+      <point x="122" y="-158" type="curve"/>
+      <point x="108" y="-158" type="line"/>
+      <point x="103" y="-158"/>
+      <point x="100" y="-156"/>
+      <point x="100" y="-151" type="curve" smooth="yes"/>
+      <point x="100" y="-148"/>
+      <point x="102" y="-145"/>
+      <point x="104" y="-142" type="curve" smooth="yes"/>
+      <point x="229" y="21" type="line"/>
+      <point x="233" y="26"/>
+      <point x="236" y="28"/>
+      <point x="241" y="28" type="curve"/>
+    </contour>
+    <component base="dvSS_TTHA"/>
+  </outline>
+</glyph>

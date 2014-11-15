@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRashtrasign" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-311" y="24" type="line"/>
+      <point x="-325" y="24"/>
+      <point x="-332" y="19"/>
+      <point x="-342" y="5" type="curve"/>
+      <point x="-468" y="-164" type="line" smooth="yes"/>
+      <point x="-472" y="-170"/>
+      <point x="-474" y="-174"/>
+      <point x="-474" y="-181" type="curve" smooth="yes"/>
+      <point x="-474" y="-192"/>
+      <point x="-466" y="-197"/>
+      <point x="-453" y="-197" type="curve"/>
+      <point x="-365" y="-197" type="line"/>
+      <point x="-353" y="-197"/>
+      <point x="-346" y="-192"/>
+      <point x="-341" y="-184" type="curve" smooth="yes"/>
+      <point x="-275" y="-86" type="line"/>
+      <point x="-270" y="-86" type="line"/>
+      <point x="-205" y="-184" type="line" smooth="yes"/>
+      <point x="-200" y="-192"/>
+      <point x="-193" y="-197"/>
+      <point x="-181" y="-197" type="curve" smooth="yes"/>
+      <point x="-93" y="-197" type="line" smooth="yes"/>
+      <point x="-80" y="-197"/>
+      <point x="-72" y="-192"/>
+      <point x="-72" y="-181" type="curve" smooth="yes"/>
+      <point x="-72" y="-174"/>
+      <point x="-74" y="-170"/>
+      <point x="-78" y="-164" type="curve" smooth="yes"/>
+      <point x="-203" y="5" type="line"/>
+      <point x="-213" y="19"/>
+      <point x="-220" y="24"/>
+      <point x="-234" y="24" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

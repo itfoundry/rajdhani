@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDD_R" format="1">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="-6" y="623" type="line"/>
+      <point x="-22" y="623"/>
+      <point x="-30" y="616"/>
+      <point x="-30" y="600" type="curve" smooth="yes"/>
+      <point x="-30" y="542" type="line" smooth="yes"/>
+      <point x="-30" y="525"/>
+      <point x="-22" y="519"/>
+      <point x="-6" y="519" type="curve" smooth="yes"/>
+      <point x="261" y="519" type="line" smooth="yes"/>
+      <point x="268" y="519"/>
+      <point x="272" y="513"/>
+      <point x="272" y="505" type="curve" smooth="yes"/>
+      <point x="272" y="477" type="line" smooth="yes"/>
+      <point x="272" y="468"/>
+      <point x="267" y="463"/>
+      <point x="260" y="463" type="curve" smooth="yes"/>
+      <point x="180" y="463" type="line" smooth="yes"/>
+      <point x="100" y="463"/>
+      <point x="45" y="423"/>
+      <point x="45" y="341" type="curve" smooth="yes"/>
+      <point x="45" y="315" type="line" smooth="yes"/>
+      <point x="45" y="230"/>
+      <point x="87" y="197"/>
+      <point x="180" y="197" type="curve" smooth="yes"/>
+      <point x="266" y="197" type="line" smooth="yes"/>
+      <point x="286" y="197"/>
+      <point x="297" y="189"/>
+      <point x="297" y="159" type="curve" smooth="yes"/>
+      <point x="297" y="138" type="line" smooth="yes"/>
+      <point x="297" y="110"/>
+      <point x="286" y="101"/>
+      <point x="266" y="101" type="curve" smooth="yes"/>
+      <point x="212" y="101" type="line" smooth="yes"/>
+      <point x="170" y="101"/>
+      <point x="149" y="102"/>
+      <point x="149" y="143" type="curve" smooth="yes"/>
+      <point x="149" y="147" type="line" smooth="yes"/>
+      <point x="149" y="166"/>
+      <point x="141" y="176"/>
+      <point x="127" y="176" type="curve" smooth="yes"/>
+      <point x="65" y="176" type="line" smooth="yes"/>
+      <point x="48" y="176"/>
+      <point x="40" y="166"/>
+      <point x="40" y="147" type="curve" smooth="yes"/>
+      <point x="40" y="143" type="line" smooth="yes"/>
+      <point x="40" y="31"/>
+      <point x="105" y="0"/>
+      <point x="200" y="0" type="curve" smooth="yes"/>
+      <point x="285" y="0" type="line" smooth="yes"/>
+      <point x="365" y="0"/>
+      <point x="415" y="49"/>
+      <point x="415" y="129" type="curve" smooth="yes"/>
+      <point x="415" y="173" type="line" smooth="yes"/>
+      <point x="415" y="251"/>
+      <point x="365" y="291"/>
+      <point x="285" y="291" type="curve" smooth="yes"/>
+      <point x="190" y="291" type="line" smooth="yes"/>
+      <point x="170" y="291"/>
+      <point x="159" y="294"/>
+      <point x="159" y="324" type="curve" smooth="yes"/>
+      <point x="159" y="328" type="line" smooth="yes"/>
+      <point x="159" y="356"/>
+      <point x="170" y="360"/>
+      <point x="190" y="360" type="curve" smooth="yes"/>
+      <point x="329" y="360" type="line" smooth="yes"/>
+      <point x="362" y="360"/>
+      <point x="388" y="375"/>
+      <point x="388" y="415" type="curve" smooth="yes"/>
+      <point x="388" y="505" type="line" smooth="yes"/>
+      <point x="388" y="514"/>
+      <point x="392" y="519"/>
+      <point x="400" y="519" type="curve" smooth="yes"/>
+      <point x="464" y="519" type="line" smooth="yes"/>
+      <point x="480" y="519"/>
+      <point x="488" y="525"/>
+      <point x="488" y="542" type="curve" smooth="yes"/>
+      <point x="488" y="600" type="line" smooth="yes"/>
+      <point x="488" y="616"/>
+      <point x="480" y="623"/>
+      <point x="464" y="623" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="193" y="95" type="line"/>
+      <point x="179" y="95"/>
+      <point x="172" y="90"/>
+      <point x="162" y="76" type="curve" smooth="yes"/>
+      <point x="36" y="-93" type="line" smooth="yes"/>
+      <point x="32" y="-99"/>
+      <point x="30" y="-103"/>
+      <point x="30" y="-110" type="curve" smooth="yes"/>
+      <point x="30" y="-121"/>
+      <point x="38" y="-126"/>
+      <point x="51" y="-126" type="curve" smooth="yes"/>
+      <point x="139" y="-126" type="line" smooth="yes"/>
+      <point x="151" y="-126"/>
+      <point x="158" y="-121"/>
+      <point x="163" y="-113" type="curve" smooth="yes"/>
+      <point x="229" y="-15" type="line"/>
+      <point x="234" y="-15" type="line"/>
+      <point x="299" y="-113" type="line" smooth="yes"/>
+      <point x="304" y="-121"/>
+      <point x="311" y="-126"/>
+      <point x="323" y="-126" type="curve" smooth="yes"/>
+      <point x="411" y="-126" type="line" smooth="yes"/>
+      <point x="424" y="-126"/>
+      <point x="432" y="-121"/>
+      <point x="432" y="-110" type="curve" smooth="yes"/>
+      <point x="432" y="-103"/>
+      <point x="430" y="-99"/>
+      <point x="426" y="-93" type="curve" smooth="yes"/>
+      <point x="301" y="76" type="line" smooth="yes"/>
+      <point x="291" y="90"/>
+      <point x="284" y="95"/>
+      <point x="270" y="95" type="curve" smooth="yes"/>
+    </contour>
+    <component base="dvVirama" xOffset="350" yOffset="-100"/>
+  </outline>
+</glyph>

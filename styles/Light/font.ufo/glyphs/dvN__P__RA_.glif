@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_P_RA" format="1">
+  <advance width="736"/>
+  <outline>
+    <component base="dvP_RA" xOffset="232"/>
+    <component base="dvN"/>
+  </outline>
+</glyph>

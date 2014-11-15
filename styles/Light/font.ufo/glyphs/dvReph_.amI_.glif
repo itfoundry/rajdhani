@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvReph.amI" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="623" type="move" name="_abvm.i"/>
+    </contour>
+    <contour>
+      <point x="0" y="623" type="line"/>
+      <point x="0" y="715" type="line" smooth="yes"/>
+      <point x="0" y="773"/>
+      <point x="35" y="794"/>
+      <point x="79" y="794" type="curve" smooth="yes"/>
+      <point x="106" y="794" type="line" smooth="yes"/>
+      <point x="113" y="794"/>
+      <point x="115" y="797"/>
+      <point x="115" y="802" type="curve" smooth="yes"/>
+      <point x="115" y="811" type="line" smooth="yes"/>
+      <point x="115" y="816"/>
+      <point x="113" y="819"/>
+      <point x="106" y="819" type="curve" smooth="yes"/>
+      <point x="79" y="819" type="line" smooth="yes"/>
+      <point x="11" y="819"/>
+      <point x="-30" y="783"/>
+      <point x="-30" y="715" type="curve" smooth="yes"/>
+      <point x="-30" y="623" type="line"/>
+    </contour>
+  </outline>
+</glyph>

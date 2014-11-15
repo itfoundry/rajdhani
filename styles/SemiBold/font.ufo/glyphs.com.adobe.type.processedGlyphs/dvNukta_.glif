@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvNukta">
+  <advance width="0" />
+  <unicode hex="093C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-190" y="-32" />
+      <point x="-190" y="-20" />
+      <point x="-196" y="-14" />
+      <point type="curve" x="-207" y="-14" />
+      <point type="line" x="-262" y="-14" />
+      <point x="-274" y="-14" />
+      <point x="-280" y="-20" />
+      <point type="curve" x="-280" y="-32" />
+      <point type="line" x="-280" y="-85" />
+      <point x="-280" y="-98" />
+      <point x="-274" y="-104" />
+      <point type="curve" x="-262" y="-104" />
+      <point type="line" x="-207" y="-104" />
+      <point x="-195" y="-104" />
+      <point x="-190" y="-98" />
+      <point type="curve" x="-190" y="-85" />
+    </contour>
+  </outline>
+</glyph>

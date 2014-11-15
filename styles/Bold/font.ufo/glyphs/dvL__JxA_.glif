@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_JxA" format="1">
+  <advance width="1134"/>
+  <outline>
+    <contour>
+      <point x="629" y="-102" type="curve"/>
+      <point x="629" y="-92"/>
+      <point x="629" y="-37"/>
+      <point x="629" y="-37" type="curve"/>
+      <point x="629" y="-22"/>
+      <point x="621" y="-15"/>
+      <point x="607" y="-15" type="curve" smooth="yes"/>
+      <point x="537" y="-15" type="line" smooth="yes"/>
+      <point x="522" y="-15"/>
+      <point x="515" y="-22"/>
+      <point x="515" y="-37" type="curve"/>
+      <point x="515" y="-102" type="line" smooth="yes"/>
+      <point x="515" y="-117"/>
+      <point x="522" y="-125"/>
+      <point x="537" y="-125" type="curve" smooth="yes"/>
+      <point x="607" y="-125" type="line" smooth="yes"/>
+      <point x="622" y="-125"/>
+      <point x="629" y="-117"/>
+    </contour>
+    <component base="dvL_JA"/>
+  </outline>
+</glyph>

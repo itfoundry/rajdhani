@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_T_RA" format="1">
+  <advance width="732"/>
+  <outline>
+    <contour>
+      <point x="325" y="341" type="line"/>
+      <point x="332" y="341"/>
+      <point x="334" y="344"/>
+      <point x="334" y="349" type="curve" smooth="yes"/>
+      <point x="334" y="360" type="line" smooth="yes"/>
+      <point x="334" y="365"/>
+      <point x="332" y="368"/>
+      <point x="325" y="368" type="curve" smooth="yes"/>
+      <point x="130" y="368" type="line" smooth="yes"/>
+      <point x="69" y="368"/>
+      <point x="40" y="330"/>
+      <point x="40" y="279" type="curve" smooth="yes"/>
+      <point x="40" y="259"/>
+      <point x="46" y="232"/>
+      <point x="54" y="208" type="curve" smooth="yes"/>
+      <point x="56" y="201"/>
+      <point x="60" y="199"/>
+      <point x="65" y="199" type="curve" smooth="yes"/>
+      <point x="78" y="199" type="line" smooth="yes"/>
+      <point x="82" y="199"/>
+      <point x="85" y="201"/>
+      <point x="85" y="205" type="curve" smooth="yes"/>
+      <point x="85" y="209"/>
+      <point x="84" y="212"/>
+      <point x="81" y="221" type="curve" smooth="yes"/>
+      <point x="75" y="240"/>
+      <point x="70" y="259"/>
+      <point x="70" y="278" type="curve" smooth="yes"/>
+      <point x="70" y="313"/>
+      <point x="88" y="341"/>
+      <point x="131" y="341" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-1" y="623" type="line"/>
+      <point x="-8" y="623"/>
+      <point x="-10" y="620"/>
+      <point x="-10" y="615" type="curve" smooth="yes"/>
+      <point x="-10" y="606" type="line" smooth="yes"/>
+      <point x="-10" y="601"/>
+      <point x="-8" y="598"/>
+      <point x="-1" y="598" type="curve" smooth="yes"/>
+      <point x="355" y="598" type="line" smooth="yes"/>
+      <point x="362" y="598"/>
+      <point x="364" y="601"/>
+      <point x="364" y="606" type="curve" smooth="yes"/>
+      <point x="364" y="615" type="line" smooth="yes"/>
+      <point x="364" y="620"/>
+      <point x="362" y="623"/>
+      <point x="355" y="623" type="curve"/>
+    </contour>
+    <component base="dvT_RA" xOffset="244"/>
+  </outline>
+</glyph>

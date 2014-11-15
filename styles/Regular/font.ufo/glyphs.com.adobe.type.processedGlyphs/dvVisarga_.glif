@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvVisarga">
+  <advance width="247" />
+  <unicode hex="0903" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="151" y="122" />
+      <point x="151" y="131" />
+      <point x="147" y="135" />
+      <point type="curve" x="139" y="135" />
+      <point type="line" x="109" y="135" />
+      <point x="101" y="135" />
+      <point x="97" y="131" />
+      <point type="curve" x="97" y="122" />
+      <point type="line" x="97" y="85" />
+      <point x="97" y="76" />
+      <point x="101" y="72" />
+      <point type="curve" x="109" y="72" />
+      <point type="line" x="139" y="72" />
+      <point x="147" y="72" />
+      <point x="151" y="76" />
+      <point type="curve" x="151" y="85" />
+    </contour>
+    <contour>
+      <point type="line" x="151" y="422" />
+      <point x="151" y="431" />
+      <point x="147" y="435" />
+      <point type="curve" x="139" y="435" />
+      <point type="line" x="109" y="435" />
+      <point x="101" y="435" />
+      <point x="97" y="431" />
+      <point type="curve" x="97" y="422" />
+      <point type="line" x="97" y="385" />
+      <point x="97" y="375" />
+      <point x="101" y="372" />
+      <point type="curve" x="109" y="372" />
+      <point type="line" x="139" y="372" />
+      <point x="147" y="372" />
+      <point x="151" y="375" />
+      <point type="curve" x="151" y="385" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvAnusvara">
+  <advance width="0" />
+  <unicode hex="0902" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-72" y="802" />
+      <point x="-72" y="815" />
+      <point x="-79" y="820" />
+      <point type="curve" x="-90" y="820" />
+      <point type="line" x="-153" y="820" />
+      <point x="-165" y="820" />
+      <point x="-170" y="815" />
+      <point type="curve" x="-170" y="802" />
+      <point type="line" x="-170" y="743" />
+      <point x="-170" y="731" />
+      <point x="-165" y="724" />
+      <point type="curve" x="-153" y="724" />
+      <point type="line" x="-90" y="724" />
+      <point x="-78" y="724" />
+      <point x="-72" y="731" />
+      <point type="curve" x="-72" y="743" />
+    </contour>
+  </outline>
+</glyph>

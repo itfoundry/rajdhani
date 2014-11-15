@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJx_JxA" format="1">
+  <advance width="1056"/>
+  <outline>
+    <contour>
+      <point x="137" y="-87" type="curve"/>
+      <point x="137" y="-77"/>
+      <point x="137" y="-22"/>
+      <point x="137" y="-22" type="curve"/>
+      <point x="137" y="-7"/>
+      <point x="129" y="0"/>
+      <point x="115" y="0" type="curve" smooth="yes"/>
+      <point x="45" y="0" type="line" smooth="yes"/>
+      <point x="30" y="0"/>
+      <point x="23" y="-7"/>
+      <point x="23" y="-22" type="curve" smooth="yes"/>
+      <point x="23" y="-87" type="line" smooth="yes"/>
+      <point x="23" y="-102"/>
+      <point x="30" y="-110"/>
+      <point x="45" y="-110" type="curve" smooth="yes"/>
+      <point x="115" y="-110" type="line" smooth="yes"/>
+      <point x="130" y="-110"/>
+      <point x="137" y="-102"/>
+    </contour>
+    <contour>
+      <point x="527" y="-87" type="curve"/>
+      <point x="527" y="-77"/>
+      <point x="527" y="-22"/>
+      <point x="527" y="-22" type="curve"/>
+      <point x="527" y="-7"/>
+      <point x="519" y="0"/>
+      <point x="505" y="0" type="curve" smooth="yes"/>
+      <point x="435" y="0" type="line" smooth="yes"/>
+      <point x="420" y="0"/>
+      <point x="413" y="-7"/>
+      <point x="413" y="-22" type="curve" smooth="yes"/>
+      <point x="413" y="-87" type="line" smooth="yes"/>
+      <point x="413" y="-102"/>
+      <point x="420" y="-110"/>
+      <point x="435" y="-110" type="curve" smooth="yes"/>
+      <point x="505" y="-110" type="line" smooth="yes"/>
+      <point x="520" y="-110"/>
+      <point x="527" y="-102"/>
+    </contour>
+    <component base="dvJ_JA"/>
+  </outline>
+</glyph>

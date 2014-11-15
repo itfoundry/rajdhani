@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_TTA" format="1">
+  <advance width="984"/>
+  <outline>
+    <contour>
+      <point x="722" y="-20" type="move" name="blwm.uu"/>
+    </contour>
+    <contour>
+      <point x="811" y="-18" type="move" name="blwm.vr"/>
+    </contour>
+    <contour>
+      <point x="876" y="623" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="786" y="623" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="723" y="43" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="761" y="-18" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvTTA" xOffset="499"/>
+    <component base="dvK"/>
+  </outline>
+</glyph>

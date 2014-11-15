@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_V_YA" format="1">
+  <advance width="1380"/>
+  <outline>
+    <component base="dvK"/>
+    <component base="dvV" xOffset="536"/>
+    <component base="dvYA" xOffset="821"/>
+  </outline>
+</glyph>

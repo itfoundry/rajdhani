@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvH_LA" format="1">
+  <advance width="1089"/>
+  <outline>
+    <component base="dvHA"/>
+    <component base="dvVirama" xOffset="380" yOffset="-40"/>
+    <component base="dvLA" xOffset="450"/>
+  </outline>
+</glyph>

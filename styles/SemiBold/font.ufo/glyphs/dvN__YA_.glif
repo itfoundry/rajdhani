@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_YA" format="1">
+  <advance width="810"/>
+  <outline>
+    <contour>
+      <point x="316" y="313" type="line"/>
+      <point x="331" y="313"/>
+      <point x="335" y="319"/>
+      <point x="335" y="332" type="curve" smooth="yes"/>
+      <point x="335" y="376" type="line" smooth="yes"/>
+      <point x="335" y="389"/>
+      <point x="331" y="395"/>
+      <point x="316" y="395" type="curve"/>
+      <point x="143" y="395" type="line" smooth="yes"/>
+      <point x="73" y="395"/>
+      <point x="29" y="351"/>
+      <point x="29" y="286" type="curve" smooth="yes"/>
+      <point x="29" y="261"/>
+      <point x="32" y="237"/>
+      <point x="39" y="217" type="curve" smooth="yes"/>
+      <point x="46" y="202"/>
+      <point x="56" y="191"/>
+      <point x="74" y="191" type="curve" smooth="yes"/>
+      <point x="112" y="191" type="line" smooth="yes"/>
+      <point x="124" y="191"/>
+      <point x="130" y="198"/>
+      <point x="130" y="209" type="curve" smooth="yes"/>
+      <point x="130" y="213"/>
+      <point x="129" y="218"/>
+      <point x="127" y="224" type="curve" smooth="yes"/>
+      <point x="123" y="237"/>
+      <point x="119" y="251"/>
+      <point x="119" y="268" type="curve" smooth="yes"/>
+      <point x="119" y="303"/>
+      <point x="139" y="313"/>
+      <point x="175" y="313" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-5" y="623" type="line"/>
+      <point x="-18" y="623"/>
+      <point x="-24" y="617"/>
+      <point x="-24" y="605" type="curve" smooth="yes"/>
+      <point x="-24" y="562" type="line" smooth="yes"/>
+      <point x="-24" y="549"/>
+      <point x="-18" y="543"/>
+      <point x="-5" y="543" type="curve"/>
+      <point x="316" y="543" type="line"/>
+      <point x="331" y="543"/>
+      <point x="335" y="549"/>
+      <point x="335" y="562" type="curve" smooth="yes"/>
+      <point x="335" y="605" type="line" smooth="yes"/>
+      <point x="335" y="617"/>
+      <point x="331" y="623"/>
+      <point x="316" y="623" type="curve"/>
+    </contour>
+    <component base="dvYA" xOffset="235"/>
+  </outline>
+</glyph>
