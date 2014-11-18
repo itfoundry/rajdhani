@@ -968,6 +968,43 @@
 		<string>dvSHA_mvR</string>
 		<string>dvT_S_NA</string>
 		<string>rupee</string>
+		<string>dvmvRR</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>dvL_RA</string>
+		<string>dvSS_RA</string>
+		<string>dvLL_RA</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>currency</string>
+		<string>ordfeminine</string>
+		<string>logicalnot</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>onesuperior</string>
+		<string>ordmasculine</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>litre</string>
+		<string>estimated</string>
+		<string>product</string>
+		<string>bulletoperator</string>
+		<string>radical</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>lozenge</string>
 	</array>
 </dict>
 </plist>
