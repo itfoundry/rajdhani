@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 15:58:08 2014
+# Created: Tue Nov 18 17:45:19 2014
 # PS Name: Rajdhani-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 @mGC_abvm.e_n64_623 = [dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.e_n72_623 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara];
 @mGC_abvm.i_0_623 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.vr_n72_0 = [dvmvR dvmvRR];
+@mGC_blwm.vr_n72_0 = [dvmvR dvmvRR dvmvL dvmvLL];
 
 markClass @mGC_abvm.bindu_n72_623 <anchor -72 623> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n64_623 <anchor -64 623> @MC_abvm.e;

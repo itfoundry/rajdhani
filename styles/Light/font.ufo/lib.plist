@@ -20,10 +20,12 @@
 		<string>dvvLL</string>
 		<string>dvE</string>
 		<string>dvAI</string>
+		<string>dvmE</string>
 		<string>dvO</string>
 		<string>dvAU</string>
 		<string>dvEcandra</string>
 		<string>dvAcandra</string>
+		<string>dvmEcandra</string>
 		<string>dvOcandra</string>
 		<string>dvmAA</string>
 		<string>dvmI</string>
@@ -31,11 +33,9 @@
 		<string>dvmU</string>
 		<string>dvmUU</string>
 		<string>dvmvR</string>
-		<string>dvmE</string>
 		<string>dvmAI</string>
 		<string>dvmO</string>
 		<string>dvmAU</string>
-		<string>dvmEcandra</string>
 		<string>dvmOcandra</string>
 		<string>dvKA</string>
 		<string>dvKHA</string>
@@ -74,6 +74,7 @@
 		<string>dvK_SSA</string>
 		<string>dvJ_NYA</string>
 		<string>dvKxA</string>
+		<string>dvNukta</string>
 		<string>dvKHxA</string>
 		<string>dvGxA</string>
 		<string>dvJxA</string>
@@ -86,6 +87,7 @@
 		<string>dvG</string>
 		<string>dvGH</string>
 		<string>dvNG</string>
+		<string>dvVirama</string>
 		<string>dvC</string>
 		<string>dvCH</string>
 		<string>dvJ</string>
@@ -126,8 +128,6 @@
 		<string>dvCandrabindu</string>
 		<string>dvVisarga</string>
 		<string>dvAvagraha</string>
-		<string>dvVirama</string>
-		<string>dvNukta</string>
 		<string>dvZero</string>
 		<string>dvOne</string>
 		<string>dvTwo</string>

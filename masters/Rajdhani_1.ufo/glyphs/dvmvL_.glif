@@ -3,6 +3,9 @@
   <advance width="0"/>
   <outline>
     <contour>
+      <point x="-60" y="0" type="move" name="_blwm.vr"/>
+    </contour>
+    <contour>
       <point x="-236" y="-87" type="line"/>
       <point x="-250" y="-55"/>
       <point x="-275" y="-34"/>
@@ -103,9 +106,6 @@
       <point x="5" y="-296"/>
       <point x="16" y="-292"/>
       <point x="16" y="-271" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-60" y="0" type="move" name="_blwm.vr"/>
     </contour>
   </outline>
 </glyph>

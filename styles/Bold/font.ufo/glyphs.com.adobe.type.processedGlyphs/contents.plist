@@ -510,6 +510,8 @@
 	<string>dvL__PA_.glif</string>
 	<key>dvL_PHA</key>
 	<string>dvL__PHA_.glif</string>
+	<key>dvL_RA</key>
+	<string>dvL__RA_.glif</string>
 	<key>dvL_SA</key>
 	<string>dvL__SA_.glif</string>
 	<key>dvL_TA</key>
@@ -792,6 +794,8 @@
 	<string>dvSS__PHA_.glif</string>
 	<key>dvSS_P_RA</key>
 	<string>dvSS__P__RA_.glif</string>
+	<key>dvSS_R</key>
+	<string>dvSS__R_.glif</string>
 	<key>dvSS_SSA</key>
 	<string>dvSS__SSA_.glif</string>
 	<key>dvSS_TTA</key>
@@ -1066,6 +1070,10 @@
 	<string>dvmO__Reph__Anusvara_.glif</string>
 	<key>dvmOcandra_Anusvara</key>
 	<string>dvmOcandra__Anusvara_.glif</string>
+	<key>dvmvL</key>
+	<string>dvmvL_.glif</string>
+	<key>dvmvLL</key>
+	<string>dvmvLL_.glif</string>
 	<key>dvmvRR</key>
 	<string>dvmvRR_.glif</string>
 	<key>dvvL</key>
@@ -1124,6 +1132,8 @@
 	<string>section.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>turkishlira</key>
+	<string>turkishlira.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

@@ -7,8 +7,6 @@
 @mI_BASES_01 = [
   dvRA
   dvRxA
-  dvL_RA
-  dvSS_RA
 ];
 
 # @mI_BASES_02 = [];
@@ -59,6 +57,7 @@
   dvBH_RA
   dvM_RA
   dvV_RA
+  dvSS_RA
   dvH_RA
   dvKx_RA
   dvGx_RA
@@ -136,6 +135,7 @@
   dvKH_RA
   dvJH_RA
   dvNN_RA
+  dvL_RA
   dvLL_RA
   dvKHx_RA
   dvD_GHA
