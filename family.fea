@@ -5,7 +5,7 @@ languagesystem dev2 dflt;
 languagesystem deva dflt;
 
 table head {
-  FontRevision 1.400;
+  FontRevision 1.500;
 } head;
 
 include (../../family_classes.fea);
@@ -112,13 +112,13 @@ feature rkrf {
       sub dvMA   dvVirama dvRA by   dvM_RA;
       sub dvYA   dvVirama dvRA by   dvY_RA;
     # sub dvRA   dvVirama dvRA by   dvR_RA; # Reph
-    # sub dvLA   dvVirama dvRA by   dvL_RA;
+      sub dvLA   dvVirama dvRA by   dvL_RA;
       sub dvVA   dvVirama dvRA by   dvV_RA;
       sub dvSHA  dvVirama dvRA by  dvSH_RA;
-    # sub dvSSA  dvVirama dvRA by  dvSS_RA;
+      sub dvSSA  dvVirama dvRA by  dvSS_RA;
       sub dvSA   dvVirama dvRA by   dvS_RA;
       sub dvHA   dvVirama dvRA by   dvH_RA;
-    # sub dvLLA  dvVirama dvRA by  dvLL_RA;
+      sub dvLLA  dvVirama dvRA by  dvLL_RA;
 
       sub dvKxA  dvVirama dvRA by  dvKx_RA;
       sub dvKHxA dvVirama dvRA by dvKHx_RA;
@@ -222,9 +222,9 @@ feature half {
       sub  dvKH_RA dvVirama by  dvKH_R;
       sub   dvG_RA dvVirama by   dvG_R;
       sub  dvGH_RA dvVirama by  dvGH_R;
-    # sub  dvNG_RA dvVirama by  dvNG_R;
+      sub  dvNG_RA dvVirama by  dvNG_R;
       sub   dvC_RA dvVirama by   dvC_R;
-    # sub  dvCH_RA dvVirama by  dvCH_R;
+      sub  dvCH_RA dvVirama by  dvCH_R;
       sub   dvJ_RA dvVirama by   dvJ_R;
       sub  dvJH_RA dvVirama by  dvJH_R;
       sub  dvNY_RA dvVirama by  dvNY_R;
@@ -245,13 +245,13 @@ feature half {
       sub   dvM_RA dvVirama by   dvM_R;
       sub   dvY_RA dvVirama by   dvY_R;
     # sub   dvR_RA dvVirama by   dvR_R; # Reph
-    # sub   dvL_RA dvVirama by   dvL_R;
+      sub   dvL_RA dvVirama by   dvL_R;
       sub   dvV_RA dvVirama by   dvV_R;
-    # sub  dvSH_RA dvVirama by  dvSH_R;
-    # sub  dvSS_RA dvVirama by  dvSS_R;
+      sub  dvSH_RA dvVirama by  dvSH_R;
+      sub  dvSS_RA dvVirama by  dvSS_R;
       sub   dvS_RA dvVirama by   dvS_R;
-    # sub   dvH_RA dvVirama by   dvH_R;
-    # sub  dvLL_RA dvVirama by  dvLL_R;
+      sub   dvH_RA dvVirama by   dvH_R;
+      sub  dvLL_RA dvVirama by  dvLL_R;
 
       sub  dvKx_RA dvVirama by  dvKx_R;
       sub dvKHx_RA dvVirama by dvKHx_R;
@@ -308,13 +308,13 @@ feature vatu {
     sub dvMA   dvRashtrasign by   dvM_RA;
     sub dvYA   dvRashtrasign by   dvY_RA;
   # sub dvRA   dvRashtrasign by   dvR_RA; # Reph
-  # sub dvLA   dvRashtrasign by   dvL_RA;
+    sub dvLA   dvRashtrasign by   dvL_RA;
     sub dvVA   dvRashtrasign by   dvV_RA;
     sub dvSHA  dvRashtrasign by  dvSH_RA;
-  # sub dvSSA  dvRashtrasign by  dvSS_RA;
+    sub dvSSA  dvRashtrasign by  dvSS_RA;
     sub dvSA   dvRashtrasign by   dvS_RA;
     sub dvHA   dvRashtrasign by   dvH_RA;
-  # sub dvLLA  dvRashtrasign by  dvLL_RA;
+    sub dvLLA  dvRashtrasign by  dvLL_RA;
 
     sub dvKxA  dvRashtrasign by  dvKx_RA;
     sub dvKHxA dvRashtrasign by dvKHx_RA;
@@ -329,9 +329,9 @@ feature vatu {
     sub dvKH  dvRashtrasign by  dvKH_R;
     sub dvG   dvRashtrasign by   dvG_R;
     sub dvGH  dvRashtrasign by  dvGH_R;
-  # sub dvNG  dvRashtrasign by  dvNG_R;
+    sub dvNG  dvRashtrasign by  dvNG_R;
     sub dvC   dvRashtrasign by   dvC_R;
-  # sub dvCH  dvRashtrasign by  dvCH_R;
+    sub dvCH  dvRashtrasign by  dvCH_R;
     sub dvJ   dvRashtrasign by   dvJ_R;
     sub dvJH  dvRashtrasign by  dvJH_R;
     sub dvNY  dvRashtrasign by  dvNY_R;
@@ -352,13 +352,13 @@ feature vatu {
     sub dvM   dvRashtrasign by   dvM_R;
     sub dvY   dvRashtrasign by   dvY_R;
   # sub dvR   dvRashtrasign by   dvR_R; # Reph
-  # sub dvL   dvRashtrasign by   dvL_R;
+    sub dvL   dvRashtrasign by   dvL_R;
     sub dvV   dvRashtrasign by   dvV_R;
-  # sub dvSH  dvRashtrasign by  dvSH_R;
-  # sub dvSS  dvRashtrasign by  dvSS_R;
+    sub dvSH  dvRashtrasign by  dvSH_R;
+    sub dvSS  dvRashtrasign by  dvSS_R;
     sub dvS   dvRashtrasign by   dvS_R;
-  # sub dvH   dvRashtrasign by   dvH_R;
-  # sub dvLL  dvRashtrasign by  dvLL_R;
+    sub dvH   dvRashtrasign by   dvH_R;
+    sub dvLL  dvRashtrasign by  dvLL_R;
 
     sub dvKx  dvRashtrasign by  dvKx_R;
     sub dvKHx dvRashtrasign by dvKHx_R;
@@ -480,7 +480,7 @@ feature pres {
   sub dvC dvYA by dvC_YA;
 
   sub dvCH dvYA by dvCH_YA;
-# sub dvCH_R dvYA by dvCH_R_YA;
+  sub dvCH_R dvYA by dvCH_R_YA;
 
   sub dvJ dvKA by dvJ_KA;
   sub dvJ dvJA by dvJ_JA;
@@ -517,7 +517,7 @@ feature pres {
 
   sub dvTTH dvTTHA by dvTTH_TTHA;
   sub dvTTH dvYA by dvTTH_YA;
-# sub dvTTH dvVA by dvTTH_VA;
+  sub dvTTH dvVA by dvTTH_VA;
 
   sub dvDD dvDDA by dvDD_DDA;
   sub dvDD dvDDHA by dvDD_DDHA;
@@ -526,7 +526,7 @@ feature pres {
 
   sub dvDDH dvDDHA by dvDDH_DDHA;
   sub dvDDH dvYA by dvDDH_YA;
-# sub dvDDH dvVA by dvDDH_VA;
+  sub dvDDH dvVA by dvDDH_VA;
 
   sub dvNN dvTTA by dvNN_TTA;
   sub dvNN dvTTHA by dvNN_TTHA;
@@ -943,13 +943,13 @@ feature haln {
 
   sub dvRA  dvVirama by dvR;
 
-# sub  dvNG_RA dvVirama by dvNG_R;
+  sub  dvNG_RA dvVirama by dvNG_R;
   sub  dvTT_RA dvVirama by dvTT_R;
   sub dvTTH_RA dvVirama by dvTTH_R;
   sub  dvDD_RA dvVirama by dvDD_R;
   sub dvDDH_RA dvVirama by dvDDH_R;
   sub   dvD_RA dvVirama by dvD_R;
-# sub   dvH_RA dvVirama by dvH_R;
+  sub   dvH_RA dvVirama by dvH_R;
 
 } haln;
 
@@ -998,7 +998,7 @@ feature blwm {
 # Standard Ligatures
 # ------------------
 
-# feature liga {
-#   sub f i by fi;
-#   sub f l by fl;
-# } liga;
+feature liga {
+  sub f i by fi;
+  sub f l by fl;
+} liga;
