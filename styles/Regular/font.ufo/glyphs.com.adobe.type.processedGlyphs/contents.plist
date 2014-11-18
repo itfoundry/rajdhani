@@ -52,6 +52,8 @@
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
+	<key>currency</key>
+	<string>currency.glif</string>
 	<key>dvA</key>
 	<string>dvA_.glif</string>
 	<key>dvAA</key>
@@ -122,6 +124,8 @@
 	<string>dvB__YA_.glif</string>
 	<key>dvCHA</key>
 	<string>dvCHA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -148,6 +152,8 @@
 	<string>dvDDH__R_.glif</string>
 	<key>dvDDH_RA</key>
 	<string>dvDDH__RA_.glif</string>
+	<key>dvDDH_VA</key>
+	<string>dvDDH__VA_.glif</string>
 	<key>dvDDH_YA</key>
 	<string>dvDDH__YA_.glif</string>
 	<key>dvDDHxA</key>
@@ -272,6 +278,8 @@
 	<string>dvH__NA_.glif</string>
 	<key>dvH_NNA</key>
 	<string>dvH__NNA_.glif</string>
+	<key>dvH_R</key>
+	<string>dvH__R_.glif</string>
 	<key>dvH_RA</key>
 	<string>dvH__RA_.glif</string>
 	<key>dvH_VA</key>
@@ -458,6 +466,10 @@
 	<string>dvLL_.glif</string>
 	<key>dvLLA</key>
 	<string>dvLLA_.glif</string>
+	<key>dvLL_R</key>
+	<string>dvLL__R_.glif</string>
+	<key>dvLL_RA</key>
+	<string>dvLL__RA_.glif</string>
 	<key>dvLL_YA</key>
 	<string>dvLL__YA_.glif</string>
 	<key>dvL_BA</key>
@@ -558,6 +570,8 @@
 	<string>dvNG_.glif</string>
 	<key>dvNGA</key>
 	<string>dvNGA_.glif</string>
+	<key>dvNG_R</key>
+	<string>dvNG__R_.glif</string>
 	<key>dvNG_RA</key>
 	<string>dvNG__RA_.glif</string>
 	<key>dvNN_DDA</key>
@@ -748,6 +762,8 @@
 	<string>dvSH__CHA_.glif</string>
 	<key>dvSH_KxA</key>
 	<string>dvSH__KxA_.glif</string>
+	<key>dvSH_R</key>
+	<string>dvSH__R_.glif</string>
 	<key>dvSH_RA</key>
 	<string>dvSH__RA_.glif</string>
 	<key>dvSS</key>
@@ -852,6 +868,8 @@
 	<string>dvTTH__RA_.glif</string>
 	<key>dvTTH_TTHA</key>
 	<string>dvTTH__TTHA_.glif</string>
+	<key>dvTTH_VA</key>
+	<string>dvTTH__VA_.glif</string>
 	<key>dvTTH_YA</key>
 	<string>dvTTH__YA_.glif</string>
 	<key>dvTT_R</key>
@@ -1044,6 +1062,8 @@
 	<string>dvmO__Reph__Anusvara_.glif</string>
 	<key>dvmOcandra_Anusvara</key>
 	<string>dvmOcandra__Anusvara_.glif</string>
+	<key>dvmvRR</key>
+	<string>dvmvRR_.glif</string>
 	<key>dvvL</key>
 	<string>dvvL_.glif</string>
 	<key>dvvLL</key>
@@ -1056,6 +1076,10 @@
 	<string>eogonek.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
 	<key>germandbls</key>
@@ -1066,6 +1090,10 @@
 	<string>k.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
+	<key>litre</key>
+	<string>litre.glif</string>
+	<key>logicalnot</key>
+	<string>logicalnot.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>numbersign</key>
@@ -1084,6 +1112,8 @@
 	<string>quotedbl.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
+	<key>ruble</key>
+	<string>ruble.glif</string>
 	<key>scedilla</key>
 	<string>scedilla.glif</string>
 	<key>section</key>

@@ -105,23 +105,33 @@
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa2" name="cent"/><!-- CENT SIGN -->
       <map code="0xa3" name="sterling"/><!-- POUND SIGN -->
+      <map code="0xa4" name="currency"/><!-- CURRENCY SIGN -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
       <map code="0xa7" name="section"/><!-- SECTION SIGN -->
       <map code="0xa8" name="dieresis"/><!-- DIAERESIS -->
       <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="ordfeminine"/><!-- FEMININE ORDINAL INDICATOR -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="logicalnot"/><!-- NOT SIGN -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
       <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
       <map code="0xaf" name="macron"/><!-- MACRON -->
       <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
       <map code="0xb1" name="plusminus"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="twosuperior"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="threesuperior"/><!-- SUPERSCRIPT THREE -->
       <map code="0xb4" name="acute"/><!-- ACUTE ACCENT -->
       <map code="0xb5" name="uni00B5"/><!-- MICRO SIGN -->
       <map code="0xb6" name="paragraph"/><!-- PILCROW SIGN -->
       <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
       <map code="0xb8" name="cedilla"/><!-- CEDILLA -->
+      <map code="0xb9" name="onesuperior"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="ordmasculine"/><!-- MASCULINE ORDINAL INDICATOR -->
       <map code="0xbb" name="guillemotright"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="onequarter"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="onehalf"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="threequarters"/><!-- VULGAR FRACTION THREE QUARTERS -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xc0" name="Agrave"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
       <map code="0xc1" name="Aacute"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
@@ -348,6 +358,7 @@
       <map code="0x941" name="dvmU"/><!-- DEVANAGARI VOWEL SIGN U -->
       <map code="0x942" name="dvmUU"/><!-- DEVANAGARI VOWEL SIGN UU -->
       <map code="0x943" name="dvmvR"/><!-- DEVANAGARI VOWEL SIGN VOCALIC R -->
+      <map code="0x944" name="dvmvRR"/><!-- DEVANAGARI VOWEL SIGN VOCALIC RR -->
       <map code="0x945" name="dvmEcandra"/><!-- DEVANAGARI VOWEL SIGN CANDRA E -->
       <map code="0x947" name="dvmE"/><!-- DEVANAGARI VOWEL SIGN E -->
       <map code="0x948" name="dvmAI"/><!-- DEVANAGARI VOWEL SIGN AI -->
@@ -365,6 +376,8 @@
       <map code="0x95e" name="dvPHxA"/><!-- DEVANAGARI LETTER FA -->
       <map code="0x960" name="dvvRR"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="dvvLL"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x962" name="dvmvL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC L -->
+      <map code="0x963" name="dvmvLL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC LL -->
       <map code="0x964" name="danda"/><!-- DEVANAGARI DANDA -->
       <map code="0x965" name="doubledanda"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="dvZero"/><!-- DEVANAGARI DIGIT ZERO -->
@@ -401,18 +414,30 @@
       <map code="0x20a8" name="rupee"/><!-- RUPEE SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x20b9" name="indianrupee"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
+      <map code="0x20bd" name="uni20BD"/><!-- ???? -->
+      <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
+      <map code="0x212e" name="estimated"/><!-- ESTIMATED SYMBOL -->
       <map code="0x2202" name="partialdiff"/><!-- PARTIAL DIFFERENTIAL -->
       <map code="0x2206" name="uni2206"/><!-- INCREMENT -->
+      <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->
       <map code="0x2211" name="summation"/><!-- N-ARY SUMMATION -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2215" name="uni2215"/><!-- DIVISION SLASH -->
+      <map code="0x2219" name="uni2219"/><!-- BULLET OPERATOR -->
+      <map code="0x221a" name="radical"/><!-- SQUARE ROOT -->
+      <map code="0x221e" name="infinity"/><!-- INFINITY -->
+      <map code="0x222b" name="integral"/><!-- INTEGRAL -->
       <map code="0x2248" name="approxequal"/><!-- ALMOST EQUAL TO -->
       <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
       <map code="0x2264" name="lessequal"/><!-- LESS-THAN OR EQUAL TO -->
       <map code="0x2265" name="greaterequal"/><!-- GREATER-THAN OR EQUAL TO -->
+      <map code="0x25ca" name="lozenge"/><!-- LOZENGE -->
       <map code="0x25cc" name="dottedcircle"/><!-- DOTTED CIRCLE -->
+      <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
+      <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
     </cmap_format_4>
     <cmap_format_6 platformID="1" platEncID="0" language="0">
       <map code="0x9" name="space"/>
@@ -582,7 +607,7 @@
       <map code="0xad" name="notequal"/>
       <map code="0xae" name="AE"/>
       <map code="0xaf" name="Oslash"/>
-      <map code="0xb0" name=".notdef"/>
+      <map code="0xb0" name="infinity"/>
       <map code="0xb1" name="plusminus"/>
       <map code="0xb2" name="lessequal"/>
       <map code="0xb3" name="greaterequal"/>
@@ -590,18 +615,18 @@
       <map code="0xb5" name="uni00B5"/>
       <map code="0xb6" name="partialdiff"/>
       <map code="0xb7" name="summation"/>
-      <map code="0xb8" name=".notdef"/>
+      <map code="0xb8" name="product"/>
       <map code="0xb9" name="pi"/>
-      <map code="0xba" name=".notdef"/>
-      <map code="0xbb" name=".notdef"/>
-      <map code="0xbc" name=".notdef"/>
+      <map code="0xba" name="integral"/>
+      <map code="0xbb" name="ordfeminine"/>
+      <map code="0xbc" name="ordmasculine"/>
       <map code="0xbd" name=".notdef"/>
       <map code="0xbe" name="ae"/>
       <map code="0xbf" name="oslash"/>
       <map code="0xc0" name="questiondown"/>
       <map code="0xc1" name="exclamdown"/>
-      <map code="0xc2" name=".notdef"/>
-      <map code="0xc3" name=".notdef"/>
+      <map code="0xc2" name="logicalnot"/>
+      <map code="0xc3" name="radical"/>
       <map code="0xc4" name="florin"/>
       <map code="0xc5" name="approxequal"/>
       <map code="0xc6" name="uni2206"/>
@@ -621,15 +646,15 @@
       <map code="0xd4" name="quoteleft"/>
       <map code="0xd5" name="quoteright"/>
       <map code="0xd6" name="divide"/>
-      <map code="0xd7" name=".notdef"/>
+      <map code="0xd7" name="lozenge"/>
       <map code="0xd8" name="ydieresis"/>
       <map code="0xd9" name="Ydieresis"/>
       <map code="0xda" name="fraction"/>
       <map code="0xdb" name="Euro"/>
       <map code="0xdc" name="guilsinglleft"/>
       <map code="0xdd" name="guilsinglright"/>
-      <map code="0xde" name=".notdef"/>
-      <map code="0xdf" name=".notdef"/>
+      <map code="0xde" name="fi"/>
+      <map code="0xdf" name="fl"/>
       <map code="0xe0" name="daggerdbl"/>
       <map code="0xe1" name="periodcentered"/>
       <map code="0xe2" name="quotesinglbase"/>
@@ -765,23 +790,33 @@
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa2" name="cent"/><!-- CENT SIGN -->
       <map code="0xa3" name="sterling"/><!-- POUND SIGN -->
+      <map code="0xa4" name="currency"/><!-- CURRENCY SIGN -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
       <map code="0xa7" name="section"/><!-- SECTION SIGN -->
       <map code="0xa8" name="dieresis"/><!-- DIAERESIS -->
       <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="ordfeminine"/><!-- FEMININE ORDINAL INDICATOR -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="logicalnot"/><!-- NOT SIGN -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
       <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
       <map code="0xaf" name="macron"/><!-- MACRON -->
       <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
       <map code="0xb1" name="plusminus"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="twosuperior"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="threesuperior"/><!-- SUPERSCRIPT THREE -->
       <map code="0xb4" name="acute"/><!-- ACUTE ACCENT -->
       <map code="0xb5" name="uni00B5"/><!-- MICRO SIGN -->
       <map code="0xb6" name="paragraph"/><!-- PILCROW SIGN -->
       <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
       <map code="0xb8" name="cedilla"/><!-- CEDILLA -->
+      <map code="0xb9" name="onesuperior"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="ordmasculine"/><!-- MASCULINE ORDINAL INDICATOR -->
       <map code="0xbb" name="guillemotright"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="onequarter"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="onehalf"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="threequarters"/><!-- VULGAR FRACTION THREE QUARTERS -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xc0" name="Agrave"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
       <map code="0xc1" name="Aacute"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
@@ -1008,6 +1043,7 @@
       <map code="0x941" name="dvmU"/><!-- DEVANAGARI VOWEL SIGN U -->
       <map code="0x942" name="dvmUU"/><!-- DEVANAGARI VOWEL SIGN UU -->
       <map code="0x943" name="dvmvR"/><!-- DEVANAGARI VOWEL SIGN VOCALIC R -->
+      <map code="0x944" name="dvmvRR"/><!-- DEVANAGARI VOWEL SIGN VOCALIC RR -->
       <map code="0x945" name="dvmEcandra"/><!-- DEVANAGARI VOWEL SIGN CANDRA E -->
       <map code="0x947" name="dvmE"/><!-- DEVANAGARI VOWEL SIGN E -->
       <map code="0x948" name="dvmAI"/><!-- DEVANAGARI VOWEL SIGN AI -->
@@ -1025,6 +1061,8 @@
       <map code="0x95e" name="dvPHxA"/><!-- DEVANAGARI LETTER FA -->
       <map code="0x960" name="dvvRR"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="dvvLL"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x962" name="dvmvL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC L -->
+      <map code="0x963" name="dvmvLL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC LL -->
       <map code="0x964" name="danda"/><!-- DEVANAGARI DANDA -->
       <map code="0x965" name="doubledanda"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="dvZero"/><!-- DEVANAGARI DIGIT ZERO -->
@@ -1061,18 +1099,30 @@
       <map code="0x20a8" name="rupee"/><!-- RUPEE SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x20b9" name="indianrupee"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
+      <map code="0x20bd" name="uni20BD"/><!-- ???? -->
+      <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
+      <map code="0x212e" name="estimated"/><!-- ESTIMATED SYMBOL -->
       <map code="0x2202" name="partialdiff"/><!-- PARTIAL DIFFERENTIAL -->
       <map code="0x2206" name="uni2206"/><!-- INCREMENT -->
+      <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->
       <map code="0x2211" name="summation"/><!-- N-ARY SUMMATION -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2215" name="uni2215"/><!-- DIVISION SLASH -->
+      <map code="0x2219" name="uni2219"/><!-- BULLET OPERATOR -->
+      <map code="0x221a" name="radical"/><!-- SQUARE ROOT -->
+      <map code="0x221e" name="infinity"/><!-- INFINITY -->
+      <map code="0x222b" name="integral"/><!-- INTEGRAL -->
       <map code="0x2248" name="approxequal"/><!-- ALMOST EQUAL TO -->
       <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
       <map code="0x2264" name="lessequal"/><!-- LESS-THAN OR EQUAL TO -->
       <map code="0x2265" name="greaterequal"/><!-- GREATER-THAN OR EQUAL TO -->
+      <map code="0x25ca" name="lozenge"/><!-- LOZENGE -->
       <map code="0x25cc" name="dottedcircle"/><!-- DOTTED CIRCLE -->
+      <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
+      <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
     </cmap_format_4>
   </cmap>
 

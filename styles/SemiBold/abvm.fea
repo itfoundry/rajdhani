@@ -1,4 +1,4 @@
-# Created: Sat Nov 15 17:30:11 2014
+# Created: Tue Nov 18 15:58:08 2014
 # PS Name: Rajdhani-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -50,6 +50,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvC_CHA <anchor 677 623> mark @MC_abvm.bindu;
 	pos base dvC_CH_VA <anchor 672 623> mark @MC_abvm.bindu;
 	pos base dvDDA <anchor 351 623> mark @MC_abvm.bindu;
+	pos base dvDDH_VA <anchor 293 623> mark @MC_abvm.bindu;
 	pos base dvDD_RA <anchor 273 623> mark @MC_abvm.bindu;
 	pos base dvDDxA <anchor 276 623> mark @MC_abvm.bindu;
 	pos base dvD_BHA <anchor 204 623> mark @MC_abvm.bindu;
@@ -114,6 +115,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvS_TTA <anchor 668 623> mark @MC_abvm.bindu;
 	pos base dvTTHA <anchor 301 623> mark @MC_abvm.bindu;
 	pos base dvTTH_RA <anchor 304 623> mark @MC_abvm.bindu;
+	pos base dvTTH_VA <anchor 295 623> mark @MC_abvm.bindu;
 	pos base dvT_KA <anchor 666 623> mark @MC_abvm.bindu;
 	pos base dvT_K_RA <anchor 680 623> mark @MC_abvm.bindu;
 	pos base dvT_PHA <anchor 679 623> mark @MC_abvm.bindu;
@@ -136,6 +138,7 @@ lookup MARK_BASE_abvm.e {
 	@bGC_dvNN_TTHA_abvm.e = [dvNN_TTHA dvL_DDHA];
 	@bGC_dvPHA_abvm.e = [dvPHA dvPHxA dvPH_NA];
 	@bGC_dvPH_RA_abvm.e = [dvPH_RA dvPHx_RA];
+	@bGC_dvP_TTHA_abvm.e = [dvP_TTHA dvTTH_VA];
 	@bGC_dvSH_TTA_abvm.e = [dvSH_TTA dvS_PHA];
 	@bGC_dvSS_TTA_abvm.e = [dvSS_TTA dvSS_TT_RA dvSS_TT_VA dvSS_TTHA];
 	@bGC_dvTTA_abvm.e = [dvTTA dvTT_RA];
@@ -155,6 +158,7 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvNN_TTHA_abvm.e <anchor 828 623> mark @MC_abvm.e;
 	pos base @bGC_dvPHA_abvm.e <anchor 422 623> mark @MC_abvm.e;
 	pos base @bGC_dvPH_RA_abvm.e <anchor 426 623> mark @MC_abvm.e;
+	pos base @bGC_dvP_TTHA_abvm.e <anchor 413 623> mark @MC_abvm.e;
 	pos base @bGC_dvSH_TTA_abvm.e <anchor 781 623> mark @MC_abvm.e;
 	pos base @bGC_dvSS_TTA_abvm.e <anchor 435 623> mark @MC_abvm.e;
 	pos base @bGC_dvTTA_abvm.e <anchor 389 623> mark @MC_abvm.e;
@@ -165,6 +169,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvB_DA <anchor 712 623> mark @MC_abvm.e;
 	pos base dvC_CHA <anchor 848 623> mark @MC_abvm.e;
 	pos base dvC_CH_VA <anchor 844 623> mark @MC_abvm.e;
+	pos base dvDDH_VA <anchor 408 623> mark @MC_abvm.e;
 	pos base dvD_BHA <anchor 450 623> mark @MC_abvm.e;
 	pos base dvD_MA <anchor 639 623> mark @MC_abvm.e;
 	pos base dvG_DA <anchor 688 623> mark @MC_abvm.e;
@@ -211,7 +216,6 @@ lookup MARK_BASE_abvm.e {
 	pos base dvPH_TTA <anchor 916 623> mark @MC_abvm.e;
 	pos base dvPHx_PHxA <anchor 952 623> mark @MC_abvm.e;
 	pos base dvP_PHA <anchor 696 623> mark @MC_abvm.e;
-	pos base dvP_TTHA <anchor 413 623> mark @MC_abvm.e;
 	pos base dvRA <anchor 275 623> mark @MC_abvm.e;
 	pos base dvRxA <anchor 306 623> mark @MC_abvm.e;
 	pos base dvSH_CHA <anchor 893 623> mark @MC_abvm.e;

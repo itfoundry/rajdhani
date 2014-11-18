@@ -12,13 +12,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
-      1.400;ITFO;Rajdhani-SemiBold
+      1.500;ITFO;Rajdhani-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
       Rajdhani SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
-      Version 1.400;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930
+      Version 1.500;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
       Rajdhani-SemiBold
@@ -60,13 +60,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.400;ITFO;Rajdhani-SemiBold
+      1.500;ITFO;Rajdhani-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Rajdhani SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.400;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930
+      Version 1.500;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Rajdhani-SemiBold

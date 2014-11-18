@@ -7,6 +7,9 @@
 		<string>dvmU</string>
 		<string>dvmUU</string>
 		<string>dvmvR</string>
+		<string>dvmvRR</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
 		<string>dvmE</string>
 		<string>dvmAI</string>
 		<string>dvmEcandra</string>
@@ -170,10 +173,13 @@
 		<string>dvBH_RA</string>
 		<string>dvM_RA</string>
 		<string>dvY_RA</string>
+		<string>dvL_RA</string>
 		<string>dvV_RA</string>
+		<string>dvSS_RA</string>
 		<string>dvSH_RA</string>
 		<string>dvS_RA</string>
 		<string>dvH_RA</string>
+		<string>dvLL_RA</string>
 		<string>dvKx_RA</string>
 		<string>dvKHx_RA</string>
 		<string>dvGx_RA</string>
@@ -291,12 +297,14 @@
 		<string>dvTT_VA</string>
 		<string>dvTTH_TTHA</string>
 		<string>dvTTH_YA</string>
+		<string>dvTTH_VA</string>
 		<string>dvDD_DDA</string>
 		<string>dvDD_DDHA</string>
 		<string>dvDD_YA</string>
 		<string>dvDD_VA</string>
 		<string>dvDDH_DDHA</string>
 		<string>dvDDH_YA</string>
+		<string>dvDDH_VA</string>
 		<string>dvNN_TTA</string>
 		<string>dvNN_TTHA</string>
 		<string>dvNN_DDA</string>

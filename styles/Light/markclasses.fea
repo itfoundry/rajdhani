@@ -1,4 +1,4 @@
-# Created: Sat Nov 15 17:29:03 2014
+# Created: Tue Nov 18 15:57:00 2014
 # PS Name: Rajdhani-Light
 # MM Inst: None
 # exported from noApp
@@ -6,12 +6,13 @@
 @mGC_abvm.bindu_n100_623 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n100_623 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_623 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.vr_n100_0 = [dvmvR dvmvRR];
 
 markClass @mGC_abvm.bindu_n100_623 <anchor -100 623> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n100_623 <anchor -100 623> @MC_abvm.e;
 markClass @mGC_abvm.i_0_623 <anchor 0 623> @MC_abvm.i;
+markClass @mGC_blwm.vr_n100_0 <anchor -100 0> @MC_blwm.vr;
 markClass dvVirama <anchor -130 0> @MC_blwm.virama;
 markClass dvmU <anchor -130 0> @MC_blwm.u;
 markClass dvmUU <anchor -130 0> @MC_blwm.uu;
-markClass dvmvR <anchor -100 0> @MC_blwm.vr;
 

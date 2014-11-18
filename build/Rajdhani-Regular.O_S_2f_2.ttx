@@ -3,7 +3,7 @@
 
   <OS_2>
     <version value="4"/>
-    <xAvgCharWidth value="624"/>
+    <xAvgCharWidth value="615"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
@@ -37,7 +37,7 @@
     <achVendID value="ITFO"/>
     <fsSelection value="00000001 11000000"/>
     <fsFirstCharIndex value="0"/>
-    <fsLastCharIndex value="9676"/>
+    <fsLastCharIndex value="64258"/>
     <sTypoAscender value="1050"/>
     <sTypoDescender value="-350"/>
     <sTypoLineGap value="100"/>

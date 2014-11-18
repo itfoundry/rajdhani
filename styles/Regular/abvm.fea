@@ -1,4 +1,4 @@
-# Created: Sat Nov 15 17:29:26 2014
+# Created: Tue Nov 18 15:57:23 2014
 # PS Name: Rajdhani-Regular
 # MM Inst: None
 # exported from noApp
@@ -11,8 +11,8 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvDDA_abvm.bindu = [dvDDA dvTTH_RA];
 	@bGC_dvDDHA_abvm.bindu = [dvDDHA dvDDHxA dvDDH_RA dvSS_TTHA];
 	@bGC_dvDD_DDHA_abvm.bindu = [dvDD_DDHA dvP_TTA];
-	@bGC_dvDD_VA_abvm.bindu = [dvDD_VA dvD_VA];
-	@bGC_dvD_RA_abvm.bindu = [dvD_RA dvSS_TTA];
+	@bGC_dvDD_VA_abvm.bindu = [dvDD_VA dvD_VA dvDDH_VA];
+	@bGC_dvD_RA_abvm.bindu = [dvD_RA dvSS_TTA dvTTH_VA];
 	@bGC_dvJ_KA_abvm.bindu = [dvJ_KA dvNN_DDHA];
 	@bGC_dvKA_abvm.bindu = [dvKA dvKxA dvK_RA dvKx_RA];
 	@bGC_dvNGA_abvm.bindu = [dvNGA dvNG_RA];
@@ -166,6 +166,7 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvvR_abvm.e <anchor 401 623> mark @MC_abvm.e;
 	pos base dvB_DA <anchor 687 623> mark @MC_abvm.e;
 	pos base dvC_CH_VA <anchor 814 623> mark @MC_abvm.e;
+	pos base dvDDH_VA <anchor 381 623> mark @MC_abvm.e;
 	pos base dvD_BHA <anchor 409 623> mark @MC_abvm.e;
 	pos base dvD_MA <anchor 612 623> mark @MC_abvm.e;
 	pos base dvG_DA <anchor 658 623> mark @MC_abvm.e;
@@ -225,6 +226,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvS_K_RA <anchor 745 623> mark @MC_abvm.e;
 	pos base dvS_PHA <anchor 753 623> mark @MC_abvm.e;
 	pos base dvS_TTA <anchor 738 623> mark @MC_abvm.e;
+	pos base dvTTH_VA <anchor 393 623> mark @MC_abvm.e;
 	pos base dvT_K_RA <anchor 656 623> mark @MC_abvm.e;
 	pos base dvV_HA <anchor 665 623> mark @MC_abvm.e;
 } MARK_BASE_abvm.e;
